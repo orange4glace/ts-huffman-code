@@ -6,7 +6,7 @@
     "url": "git+https://github.com/orange4glace/ts-huffman-code.git"
   },
   "description": "",
-  "main": "src/index.ts",
+  "main": "dist/index.ts",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
